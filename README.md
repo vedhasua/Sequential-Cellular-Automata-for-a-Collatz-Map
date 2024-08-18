@@ -1,0 +1,1 @@
+# Sequential-Cellular-Automata-for-a-Collatz-Map
